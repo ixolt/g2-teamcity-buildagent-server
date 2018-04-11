@@ -1,0 +1,1 @@
+vs_buildtools.exe --norestart --quiet --wait --add Microsoft.VisualStudio.Workload.MSBuildTools --add Microsoft.VisualStudio.Workload.WebBuildTools --add Microsoft.VisualStudio.Workload.VCTools
