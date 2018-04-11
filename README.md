@@ -1,8 +1,8 @@
 # g2-teamcity-buildagent-server
 
-run the following commands to install Visual Studio
+Run the following commands to install Visual Studio
 
-docker exec -it `containerName` powershell
+docker exec -it "containerNameHere" powershell
 
 `cd C:\BuildTools\`
 
@@ -10,5 +10,5 @@ docker exec -it `containerName` powershell
 
 `VisualStudio.bat`
   
- verify that Visual Studio is in the follow directory
- C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\Microsoft\
+ Verify that Visual Studio is in the follow directory
+ C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\Microsoft
