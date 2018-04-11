@@ -11,4 +11,5 @@ docker exec -it "containerNameHere" powershell
 `VisualStudio.bat`
   
  Verify that Visual Studio is in the follow directory
- C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\Microsoft
+ 
+ `C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\Microsoft`
