@@ -5,7 +5,9 @@ run the following commands to install Visual Studio
 docker exec -it `containerName` powershell
 
 `cd C:\BuildTools\`
+
 `cmd`
+
 `VisualStudio.bat`
   
  verify that Visual Studio is in the follow directory
