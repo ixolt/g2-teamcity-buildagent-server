@@ -28,6 +28,5 @@ RUN Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Ne
 	cd 'C:/Program Files (x86)/MSBuild/'; \
 	Copy-Item -Path MSBuildCommunityTasks -Recurse -Destination 'C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/MSBuild/' -Container; \
 	Copy-Item -Path ExtensionPack -Recurse -Destination 'C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/MSBuild/' -Container; \
-	cd 'C:/BuildTools/'; \
 	$env:GYP_MSVS_VERSION = 2017; \	
 	refreshenv
