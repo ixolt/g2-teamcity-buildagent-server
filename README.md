@@ -8,7 +8,7 @@ docker exec -it "containerNameHere" powershell
 
 `cmd`
 
-`VisualStudio.bat`
+`VisualStudio.bat` (NOTE: May have to run twice for some reason)
   
  Verify that Visual Studio is in the follow directory
  
